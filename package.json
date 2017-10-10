@@ -32,5 +32,11 @@
     "uglifyjs-webpack-plugin": "^0.4.3",
     "webpack": "^2.3.3",
     "webpack-dev-server": "^2.4.2"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-promise": "^0.5.3"
   }
 }
